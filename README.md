@@ -16,7 +16,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=for-the-badge&logo=appveyor&logo=Gmail&logoColor=white&color=yellow)](mailto:daniilivanov1606@gmail.com)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=AliensWithdrawPeople&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img align="left" width="450" src="https://github-readme-stats.vercel.app/api?username=AliensWithdrawPeople&show_icons=true&theme=tokyonight&cache_seconds=180" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
