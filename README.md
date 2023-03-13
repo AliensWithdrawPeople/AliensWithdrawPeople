@@ -3,7 +3,7 @@
 - 20 y.o. Elementary particle physicist.
 - Currently studying at the Department of Physics of Novosibirsk State University (NSU).
 - I’m currently learning: **Neural Networks, Scala, Akka**
-- I'm interested in **Haskell** 
+- I'm interested in **Haskell and Smart girls** 
 - Research Assistant @ Lab 2, [BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics)
 - Passionate about **FP, High Energy Physics**
 - GPA: **4.84/5.0**
