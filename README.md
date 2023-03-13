@@ -20,5 +20,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width=400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliensWithdrawPeople&show_icons=true&theme=cobalt&layout=compact&cache_seconds=180" />
+  <img align="right" width=300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliensWithdrawPeople&show_icons=true&theme=cobalt&layout=compact&cache_seconds=180" />
 </a>
