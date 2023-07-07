@@ -1,13 +1,13 @@
 ### About me:
 
-- 20 y.o. Elementary particle physicist.
-- Currently studying at the Department of Physics of Novosibirsk State University (NSU).
+- 21 y.o. physicist.
+- Graduated Novosibirsk State University (NSU) with honours (Department of Physics, Major in High Energy Physics, GPA: **4.84/5.0**).
+- Currently doing my Master's at the same place.
 - I’m currently learning: **Neural Networks, Scala, Akka**
 - I'm interested in **Haskell and Smart girls** 
 - Research Assistant @ Lab 2, [BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics)
 - Passionate about **FP, High Energy Physics**
 - Hate **C, C++**
-- GPA: **4.84/5.0**
 - [Link to my CV](https://docs.google.com/document/d/1r4DXIKd6BD4s7EwAozlHnKYQIqSpqqXrJ88ngEyucQk/edit?usp=sharing) 
 
 ### Links:
