@@ -1,9 +1,8 @@
 ### About me:
 
-- 21 y.o. physicist.
+- 22 y.o. physicist.
 - Graduated Novosibirsk State University (NSU) with honours (Department of Physics, Major in High Energy Physics, GPA: **4.84/5.0**).
 - Currently doing my Master's at the same place.
-- I’m currently learning: **Julia**
 - I love **Haskell and Smart girls** 
 - Research Assistant @ Lab 2, [BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics)
 - Passionate about **FP, High Energy Physics**
