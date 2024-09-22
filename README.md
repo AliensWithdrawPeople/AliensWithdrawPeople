@@ -7,7 +7,7 @@
 - Research Assistant @ Lab 2, [BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics)
 - Passionate about **FP, High Energy Physics**
 - Hate **C, C++**
-- [Link to my CV]([https://docs.google.com/document/d/1r4DXIKd6BD4s7EwAozlHnKYQIqSpqqXrJ88ngEyucQk/edit?usp=sharing](https://drive.google.com/file/d/1Onf2Lst2cQoPlaGmnhk4JquMx4mA-QvS/view?usp=sharing]) 
+- [Link to my CV]([https://drive.google.com/file/d/1Onf2Lst2cQoPlaGmnhk4JquMx4mA-QvS/view?usp=sharing]) 
 
 ### Links:
 
