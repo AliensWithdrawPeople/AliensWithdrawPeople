@@ -1,13 +1,15 @@
 ### About me:
 
-- 22 y.o. physicist.
-- Graduated Novosibirsk State University (NSU) with honours (Department of Physics, Major in High Energy Physics, GPA: **4.84/5.0**).
-- Currently doing my Master's at the same place.
-- I love **Haskell and Smart girls** 
-- Research Assistant @ Lab 2, [BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics)
-- Passionate about **FP, High Energy Physics**
+- 23 y.o. physicist.
+- BSc: Graduated Novosibirsk State University (NSU) with honours (Department of Physics, Major in High Energy Physics, GPA: **4.84/5.0**).
+- MSc: Graduated Novosibirsk State University (NSU) with honours (Department of Physics, Major in High Energy Physics, GPA: **4.9/5.0**).
+- Curently (since October 2025) doing my PhD research at Graduate School of Science, [Nagoya Univeristy](https://www.nagoya-u.ac.jp).
+- I love **Smart girls** 
+- Research Assistant and PhD student at [N Lab](https://www.hepl.phys.nagoya-u.ac.jp/en) of Graduate School of Science, [Nagoya Univeristy](https://www.nagoya-u.ac.jp)
+- Part of the cutting-edge High Energy Physics experiment [Belle II](https://www.belle2.org)
+- Passionate about **Manga, Music, High Energy Physics**
 - Hate **C, C++**
-- [Link to my CV](https://drive.google.com/file/d/1Onf2Lst2cQoPlaGmnhk4JquMx4mA-QvS/view?usp=sharing) 
+- Links to my CVs: [Science related](https://drive.google.com/file/d/134m_ActvR7izZp3dRcbSvWlXbL1vAHC1/view?usp=sharing) and [SWE related](https://drive.google.com/file/d/1c30iq0Kt6M8oGiOe1VWnhgVtx-27kfY9/view?usp=sharing) 
 
 ### Links:
 
